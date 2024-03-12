@@ -1,5 +1,5 @@
 package ex04;
-
+//ex04: DI(Dependency Injection) - Setter Injection  (xml±â¹Ý)
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.FileSystemXmlApplicationContext;
 

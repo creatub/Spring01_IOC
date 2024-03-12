@@ -1,5 +1,5 @@
 package ex05;
-
+//ex05: DI(Dependency Injection) - Constructor Injection (xml±â¹Ý)
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

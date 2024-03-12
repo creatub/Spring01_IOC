@@ -1,5 +1,5 @@
 package ex06;
-
+//ex06: xml이 아닌 Java 클래스를 이용해 빈을 생성하고 주입 (Java 기반)
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
